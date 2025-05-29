@@ -1,0 +1,38 @@
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\bin\x64\Debug\InventoryMgt.exe.config
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\bin\x64\Debug\InventoryMgt.exe
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\bin\x64\Debug\InventoryMgt.pdb
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\bin\x64\Debug\InventoryMgt.xml
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Login.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Main_Window.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.prod.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Resources.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.vbproj.GenerateResource.Cache
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.exe
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.xml
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.pdb
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.suppliers.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.customers.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.New_Transaction.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Purchase_Rec.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Selling_Rec.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Transactions.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.stocks.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\bin\x64\Debug\InventoryMgt.exe.config
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.exe
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.xml
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.pdb
+G:\DITB822016\InventoryMgt\InventoryMgt\bin\x64\Debug\InventoryMgt.exe
+G:\DITB822016\InventoryMgt\InventoryMgt\bin\x64\Debug\InventoryMgt.pdb
+G:\DITB822016\InventoryMgt\InventoryMgt\bin\x64\Debug\InventoryMgt.xml
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.customers.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Login.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Main_Window.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.New_Transaction.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.prod.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Resources.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Purchase_Rec.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Selling_Rec.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.stocks.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.suppliers.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.Transactions.resources
+G:\DITB822016\InventoryMgt\InventoryMgt\obj\x64\Debug\InventoryMgt.vbproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\Tharusha Dilshan\AppData\Local\Temporary Projects\InventoryMgt\bin\Debug\InventoryMgt.exe.config
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\bin\Debug\InventoryMgt.exe.config
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\bin\Debug\InventoryMgt.exe
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\bin\Debug\InventoryMgt.pdb
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\bin\Debug\InventoryMgt.xml
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\Debug\InventoryMgt.Login.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\Debug\InventoryMgt.Resources.resources
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\Debug\InventoryMgt.vbproj.GenerateResource.Cache
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\Debug\InventoryMgt.exe
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\Debug\InventoryMgt.xml
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\Debug\InventoryMgt.pdb
+C:\Users\Tharusha Dilshan\OneDrive\Documents\Visual Studio 2012\Projects\InventoryMgt\InventoryMgt\obj\Debug\InventoryMgt.Main_Window.resources
